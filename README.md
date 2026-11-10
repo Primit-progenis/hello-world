@@ -1,3 +1,5 @@
 # hello-world
-just another repository
-hey its me the pro genis, i am the master of coding.
+
+A starter repository. It currently contains this README and no application source code.
+
+Use it as a place to add a first program or experiment. Once code is added, document how to install dependencies, run it, and understand its main behavior here.
